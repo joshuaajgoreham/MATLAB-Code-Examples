@@ -1,4 +1,4 @@
-%% This m-file is to plot variables in dataset.mat and find correlations
+%% This m-file is to plot variables in dataset.mat and fit a linear regression model
 
 rand_x=rand(100,1);%random data
 rand_y=rand(100,1);%random data
